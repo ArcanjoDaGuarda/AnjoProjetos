@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+  <head>
+
+    <link rel="stylesheet" href="style.css">
+
+    <title>Crazy Cat's Luck</title>
+
+    <meta charset="utf-8">
+
+    <script src="https://code.jquery.com/jquery-1.11.2.js"></script>
+
+    <script type="text/javascript">
+
+      jQuery(window).load(function($){
+
+        atualizaRelogio();
+
+      });
+
+    </script>
+
+  </head>
+
+  <body>
+
+    <header><img class="img-topo" src="img/Gato-topo.png" alt="topo img" width="100%"></header>
+
+    <section></section>
+
+      <article>
+
+    <div>
+
+      <h>Data De Hoje:
+
+        <output id="data" style="font-family: 'arial black', 'avant garde'; font-size: 15px;"></output></h>
+
+    </div>
+
+    <div><h>Horario De Hoje:
+
+      <output id="hora" style="font-family: 'arial black', 'avant garde'; font-size: 15px;"></output></h>       
+
+    </div>    
+
+        <p><h1>Bem Vindos Ao Melhor Site De Sorteio Do Meu Bairro!!!</h1></p>
+
+      <p>Esse é um site de sorteios feito para ser algo um tanto quanto INÚTIL, feito para gerenciar sorteios a fins de divertimento, (obs: Os prêmios podem ser reivindicados!)</p>
+
+    </article>
+
+    <nav>
+
+      <ul id="menu-principal">
+
+        <li><a href="index.html">Home</a></li>
+
+        <li><a href="jogar.html">Jogar</a></li>
+
+        <li><a href="Regras.html">Regras</a></li>
+
+        <li><a href="Contato.html">Contato</a></li>
+
+      </ul> 
+
+    </nav>
+
+  </body>
+
+  <script>
+
+      function atualizaRelogio(){ 
+
+      var momentoAtual = new Date();
+
+      
+
+      var vhora = momentoAtual.getHours();
+
+      var vminuto = momentoAtual.getMinutes();
+
+      var vsegundo = momentoAtual.getSeconds();
+
+      
+
+      var vdia = momentoAtual.getDate();
+
+      var vmes = momentoAtual.getMonth() + 1;
+
+      var vano = momentoAtual.getFullYear();
+
+      
+
+      if (vdia < 10){ vdia = "0" + vdia;}
+
+      if (vmes < 10){ vmes = "0" + vmes;}
+
+      if (vhora < 10){ vhora = "0" + vhora;}
+
+      if (vminuto < 10){ vminuto = "0" + vminuto;}
+
+      if (vsegundo < 10){ vsegundo = "0" + vsegundo;}
+
+      dataFormat = vdia + " / " + vmes + " / " + vano;
+
+      horaFormat = vhora + " : " + vminuto + " : " + vsegundo;
+
+      document.getElementById("data").innerHTML = dataFormat;
+
+      document.getElementById("hora").innerHTML = horaFormat;
+
+      setTimeout("atualizaRelogio()",1000);
+
+    }
+
+  </script> 
+
+  <footer>rodape</footer>
+
+</html>
+
