@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T20:24:22.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rX_I9sbwiCTg2Jumn8hv" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T20:52:22.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qbqJRkRX5FXUALkK_ea-" version="21.1.6" type="github">
   <diagram name="Página-1" id="OKbmLqGyjOnGrivR2I40">
     <mxGraphModel dx="880" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,41 +32,8 @@
         <mxCell id="MAyMO6A-bNdMm_IBALHe-34" value="Realizar Manutenção dos DVDs" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="-100" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MAyMO6A-bNdMm_IBALHe-38" value="Verificar Pendências" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="-140" width="90" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MAyMO6A-bNdMm_IBALHe-40" value="Registrar Locação" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="10" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MAyMO6A-bNdMm_IBALHe-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.991;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MAyMO6A-bNdMm_IBALHe-40" target="MAyMO6A-bNdMm_IBALHe-38" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="120" as="sourcePoint" />
-            <mxPoint x="650" y="70" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="640" y="-70" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MAyMO6A-bNdMm_IBALHe-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MAyMO6A-bNdMm_IBALHe-44" target="MAyMO6A-bNdMm_IBALHe-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MAyMO6A-bNdMm_IBALHe-44" value="Cancelar Locação" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="130" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MAyMO6A-bNdMm_IBALHe-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="MAyMO6A-bNdMm_IBALHe-5" target="MAyMO6A-bNdMm_IBALHe-44" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="80" as="sourcePoint" />
-            <mxPoint x="580" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zC44zjOJLTBo2xcty-5m-1" value="Checar Cadastro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-110" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zC44zjOJLTBo2xcty-5m-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.74;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MAyMO6A-bNdMm_IBALHe-40" target="zC44zjOJLTBo2xcty-5m-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="20" as="sourcePoint" />
-            <mxPoint x="750" y="-40" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
