@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T20:23:36.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="YrCkkj0nhMjQZ9nlvLKF" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T20:24:22.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rX_I9sbwiCTg2Jumn8hv" version="21.1.6" type="github">
   <diagram name="Página-1" id="OKbmLqGyjOnGrivR2I40">
     <mxGraphModel dx="880" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,15 +8,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="515" y="20" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MAyMO6A-bNdMm_IBALHe-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="MAyMO6A-bNdMm_IBALHe-5" target="MAyMO6A-bNdMm_IBALHe-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="445" y="-30" />
-              <mxPoint x="450" y="-30" />
-              <mxPoint x="450" y="-110" />
             </Array>
           </mxGeometry>
         </mxCell>
