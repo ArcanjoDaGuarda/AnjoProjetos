@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T22:59:32.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Z4sIIZ1mBdfZ5lvJ_Rxm" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T23:00:55.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="J535Ofm0glgh-x_jVhjc" version="21.1.7" type="github">
   <diagram name="Página-1" id="mgOXi0PomvXZj4czdlPN">
     <mxGraphModel dx="704" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="90" y="130" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OXu6-j5TUUTx97Snw8L3-3" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="10" width="220" height="490" as="geometry" />
+          <mxGeometry x="380" y="10" width="340" height="490" as="geometry" />
         </mxCell>
         <mxCell id="OXu6-j5TUUTx97Snw8L3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OXu6-j5TUUTx97Snw8L3-3" source="OXu6-j5TUUTx97Snw8L3-5" target="OXu6-j5TUUTx97Snw8L3-12">
           <mxGeometry relative="1" as="geometry">
@@ -25,13 +25,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OXu6-j5TUUTx97Snw8L3-5" value="Registrar Informações das ligações" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="OXu6-j5TUUTx97Snw8L3-3">
-          <mxGeometry x="50" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OXu6-j5TUUTx97Snw8L3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OXu6-j5TUUTx97Snw8L3-3" source="OXu6-j5TUUTx97Snw8L3-6" target="OXu6-j5TUUTx97Snw8L3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXu6-j5TUUTx97Snw8L3-6" value="Calcular Gastos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="OXu6-j5TUUTx97Snw8L3-3">
-          <mxGeometry x="50" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OXu6-j5TUUTx97Snw8L3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OXu6-j5TUUTx97Snw8L3-3" source="OXu6-j5TUUTx97Snw8L3-7" target="OXu6-j5TUUTx97Snw8L3-6">
           <mxGeometry relative="1" as="geometry" />
@@ -41,6 +41,12 @@
         </mxCell>
         <mxCell id="OXu6-j5TUUTx97Snw8L3-12" value="Efetuar Ligação" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="OXu6-j5TUUTx97Snw8L3-3">
           <mxGeometry x="50" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OXu6-j5TUUTx97Snw8L3-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="OXu6-j5TUUTx97Snw8L3-3" source="OXu6-j5TUUTx97Snw8L3-7" target="OXu6-j5TUUTx97Snw8L3-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="390" as="sourcePoint" />
+            <mxPoint x="90" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
