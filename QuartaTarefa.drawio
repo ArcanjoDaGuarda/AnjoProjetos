@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T20:34:02.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="K9K1zKTXeHw8A1z1t5sZ" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T20:34:52.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2GKQocE2CE99SaZF2G5N" version="21.1.7" type="github">
   <diagram name="Página-1" id="ZUgWmiY-DHRghAnXG5Ju">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="Q9_l1EO83hs2iSmNuz1i-1" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9_l1EO83hs2iSmNuz1i-2" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="170" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
