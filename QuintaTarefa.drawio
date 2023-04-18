@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T21:13:56.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xNi92ovfMVVTd7N206ZD" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T21:14:15.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="I5RNbYwXhinIa_MMEj1m" version="21.1.7" type="github">
   <diagram name="Página-1" id="COqzpap-yBb3K-7UtfMz">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="FBYbDLMMU66wTV_MUvyj-11" value="Include" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBYbDLMMU66wTV_MUvyj-12" value="Extends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
