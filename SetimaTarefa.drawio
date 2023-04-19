@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T22:22:02.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="I5WuOSnxvPYDur30APE0" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T22:22:33.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="wv2hpwDlanqJD2LlBoM7" version="21.1.7" type="github">
   <diagram name="Página-1" id="szjbtwEokH5T6K7qggf9">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fYxNbOWRkxdqYsYEncR5-1" value="Anunciante" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="230" width="30" height="60" as="geometry" />
+          <mxGeometry x="80" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYxNbOWRkxdqYsYEncR5-2" value="Cadastrar Anuncio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="200" width="120" height="80" as="geometry" />
