@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T22:46:57.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="f1SFFvzev8GpBTnIajFc" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T22:47:48.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="j5dCw-VnUjp0AcmXVDVL" version="21.1.7" type="github">
   <diagram name="Página-1" id="qMA5MeEKdQBNHlqc8SRP">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="wv9Aw4H7F9O_Hve3EbVO-1" value="Jogar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wv9Aw4H7F9O_Hve3EbVO-2" value="Jogador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="wv9Aw4H7F9O_Hve3EbVO-2" value="Jogadores" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wv9Aw4H7F9O_Hve3EbVO-5" value="Inserir Letras" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
