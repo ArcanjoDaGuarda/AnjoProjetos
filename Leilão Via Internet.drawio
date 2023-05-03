@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T01:14:11.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fJd6C8Ly1K6zWl9bCjH-" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T01:14:31.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Z8VniUQ9dO0Wsa2M6CSW" version="21.1.9" type="github">
   <diagram name="Página-1" id="xMqQZsLP8ieh_yZpMVl1">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="150" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fBph0RA3zfgHHDGqwz30-3" value="Ofertar Lance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="294" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fBph0RA3zfgHHDGqwz30-4" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="230" width="30" height="60" as="geometry" />
