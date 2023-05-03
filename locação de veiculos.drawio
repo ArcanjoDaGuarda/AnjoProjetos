@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T00:13:39.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.9" etag="6HNUwvQqQ1mNv6TluJST" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T00:31:21.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7of1eTDwuhFuZvsw6G5L" version="21.1.9" type="github">
   <diagram name="Página-1" id="z4HRKTw3MSUHEGrCa4cY">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UYNWcEjwC6y80_EAeNRx-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UYNWcEjwC6y80_EAeNRx-2" value="Cadastrar Cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYNWcEjwC6y80_EAeNRx-3" value="Registrar Carro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYNWcEjwC6y80_EAeNRx-4" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UYNWcEjwC6y80_EAeNRx-5" value="Alugar Veiculo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
