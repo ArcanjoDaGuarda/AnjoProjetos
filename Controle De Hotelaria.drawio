@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T22:51:29.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="bsCNwlR-l8mIpE7Pyp-A" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T22:52:11.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="sIDP9A2JQWfACQfKY38_" version="21.2.6" type="github">
   <diagram name="Página-1" id="090C5BfIKsPb5IIpAw25">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,6 +59,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="270" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zgf-avjBoHdvqSR2Pd4k-17" value="Encerrar Estadia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zgf-avjBoHdvqSR2Pd4k-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.583;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Zgf-avjBoHdvqSR2Pd4k-3" target="Zgf-avjBoHdvqSR2Pd4k-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
