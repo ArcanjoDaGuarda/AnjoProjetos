@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T22:44:55.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vLuVifou21hWNVkOkNj9" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T22:45:44.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-PwrsI45_cn77aPAl7pk" version="21.2.6" type="github">
   <diagram name="Página-1" id="090C5BfIKsPb5IIpAw25">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,10 @@
           <mxGeometry x="690" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zgf-avjBoHdvqSR2Pd4k-3" value="Alugar Quarto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zgf-avjBoHdvqSR2Pd4k-6" value="Verificar Cadastro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
