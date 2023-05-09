@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T22:41:18.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uXV_jXPvZZq31ea1uHoX" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T22:42:07.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="QrxeIEJgm3JJGh5mpCJF" version="21.2.6" type="github">
   <diagram name="Página-1" id="xMqQZsLP8ieh_yZpMVl1">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,14 +61,17 @@
             <mxPoint x="221" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yhqwkrk6_rPRlSjjWlfd-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.092;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.017;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fBph0RA3zfgHHDGqwz30-6" target="fBph0RA3zfgHHDGqwz30-3">
+        <mxCell id="yhqwkrk6_rPRlSjjWlfd-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.092;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.975;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fBph0RA3zfgHHDGqwz30-6" target="fBph0RA3zfgHHDGqwz30-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="280" as="sourcePoint" />
             <mxPoint x="440" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yhqwkrk6_rPRlSjjWlfd-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="324" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="yhqwkrk6_rPRlSjjWlfd-2" value="Include" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yhqwkrk6_rPRlSjjWlfd-3" value="Extends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
