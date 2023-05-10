@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T00:30:37.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Vw5vYotJAMjxcdxktbo4" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T00:31:19.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="51FhT99SEUas4clUYeps" version="21.2.9" type="github">
   <diagram name="Página-1" id="Gbsl6Xin3QOL6cfGzx2_">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="30" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7mvMbwk5FHXOJCNufQna-4" value="Solicitar Reembolso" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="310" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7mvMbwk5FHXOJCNufQna-5" value="Inserir Código da Passagem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="310" width="120" height="80" as="geometry" />
@@ -35,6 +35,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7mvMbwk5FHXOJCNufQna-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.017;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7mvMbwk5FHXOJCNufQna-3" target="7mvMbwk5FHXOJCNufQna-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7mvMbwk5FHXOJCNufQna-11" value="Cobrar Taxa de Cancelamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7mvMbwk5FHXOJCNufQna-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.433;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.767;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7mvMbwk5FHXOJCNufQna-4" target="7mvMbwk5FHXOJCNufQna-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="250" as="sourcePoint" />
             <mxPoint x="440" y="200" as="targetPoint" />
