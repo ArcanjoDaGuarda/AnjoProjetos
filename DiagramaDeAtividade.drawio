@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T01:39:15.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-7fG_efOvTuWIPOz_Uan" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T01:41:38.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Q6SCcrRZ9XGUN1KyzH5U" version="21.2.9" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1100" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -327,10 +327,10 @@
         <mxCell id="xjSCA3znmnXuhdVDdIps-109" value="Ator: Administrador" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xjSCA3znmnXuhdVDdIps-100">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xjSCA3znmnXuhdVDdIps-110" value="Diagrama de Atividades - Consultar Catálogo" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+        <mxCell id="xjSCA3znmnXuhdVDdIps-110" value="Diagrama de Atividades - Administrar Usuários" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="750" y="1100" width="280" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="xjSCA3znmnXuhdVDdIps-111" value="Administrador seleciona&#xa; a opção para adicionar ou &#xa;remover itens do catálogo" style="" vertex="1" parent="xjSCA3znmnXuhdVDdIps-110">
+        <mxCell id="xjSCA3znmnXuhdVDdIps-111" value="Administrador seleciona a &#xa;opção&#xa; para adicionar ou &#xa;remover usuários." style="" vertex="1" parent="xjSCA3znmnXuhdVDdIps-110">
           <mxGeometry x="75" y="130" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xjSCA3znmnXuhdVDdIps-112" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="xjSCA3znmnXuhdVDdIps-110">
@@ -344,7 +344,7 @@
         <mxCell id="xjSCA3znmnXuhdVDdIps-114" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="xjSCA3znmnXuhdVDdIps-110">
           <mxGeometry x="140" y="50" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xjSCA3znmnXuhdVDdIps-115" value="Sistema permite a adição &#xa;ou remoção de itens conforme&#xa; solicitado pelo administrador." style="" vertex="1" parent="xjSCA3znmnXuhdVDdIps-110">
+        <mxCell id="xjSCA3znmnXuhdVDdIps-115" value="Sistema permite a adição ou &#xa;remoção de usuários conforme &#xa;solicitado pelo administrador." style="" vertex="1" parent="xjSCA3znmnXuhdVDdIps-110">
           <mxGeometry x="75" y="220" width="165" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xjSCA3znmnXuhdVDdIps-116" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="xjSCA3znmnXuhdVDdIps-110" source="xjSCA3znmnXuhdVDdIps-115" target="xjSCA3znmnXuhdVDdIps-112">
