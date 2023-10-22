@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T01:20:29.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="L8A0B-ds_EcUqgCf-JjU" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T01:20:47.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VL3Xqx_zq4MPmDItDfQ5" version="21.2.9" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
         <mxCell id="xjSCA3znmnXuhdVDdIps-52" value="Sistema valida o&#xa; pedido." style="" vertex="1" parent="4">
           <mxGeometry x="75" y="200" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xjSCA3znmnXuhdVDdIps-53" value="Usuário seleciona&#xa; itens e fornece&#xa;detalhes" style="" vertex="1" parent="4">
+        <mxCell id="xjSCA3znmnXuhdVDdIps-53" value="Pedido é registrado&#xa; no sistema." style="" vertex="1" parent="4">
           <mxGeometry x="75" y="310" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xjSCA3znmnXuhdVDdIps-54" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4" source="xjSCA3znmnXuhdVDdIps-52" target="xjSCA3znmnXuhdVDdIps-53">
